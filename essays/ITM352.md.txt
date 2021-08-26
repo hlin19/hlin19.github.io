@@ -1,0 +1,16 @@
+---
+layout: essay
+type: essay
+title: ITM 352
+# All dates must be YYYY-MM-DD format!
+date: 2021-08-26
+labels:
+  - ITM-352
+  - Learning
+---
+
+
+
+As an Accounting and Finance Major, many reccomended recommended to add Management Information System into my program. Therefore, I am taking this class to see if I will find interest in or like it enough to want to triple major.  
+
+
