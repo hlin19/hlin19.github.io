@@ -1,0 +1,16 @@
+---
+layout: essay
+type: essay
+title: ITM 352
+# All dates must be YYYY-MM-DD format!
+date: 2021-09-13
+labels:
+  - ITM-352
+  - Learning
+---
+
+
+
+It took me multiple for tries in all three BrowserHistory WODS before completing them within the average time. In BrowserHistory1, I tried to do everything on my own, and was already stuck on the second step when I had to open the page through browser. Without being able to do so, I started to panic because I was under the pressure of completing the assignment as fast as I can. I eventually gave up and decided to check my work through clicking the link in my file. Luckily, everything else went through smoothly. Everything went smoothly for BrowserHistory2, but because I was unsure the first time while doing it, I was very slow. So, when I found it, everything was done correctly, I re-did it two more times until I was under the average time limit. Lastly, I found BrowserHistory3 to be the hardest. For some reason I was not able to put everything into three columns. Even after watching the solution, I could not find where my problem was. Eventually, I decided to sign up for office hours, so I can have a second pair of eyes to see what went wrong in my code. Luckily, we found out the problem was forgetting to add px after a number when changing our margins.
+ 
+Through these three WODS, I learned that we had to be careful when coding because little mistakes can change the code to something totally different like how I was only able to form two columns instead of three. Another advice I have is to just ask for help. I realized that when you watch the solution and still think your code is right, you’ll need another pair of eyes to catch your mistake. Lastly, it is to just keep practice. The beginning trials of my WODS were over 30 minutes, but after the third trial, I was able to do them is less than 10 minutes, which I was amaze myself.
