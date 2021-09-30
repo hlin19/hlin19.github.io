@@ -2,7 +2,6 @@
 layout: essay
 type: essay
 title: ITM 352
-# All dates must be YYYY-MM-DD format!
 date: 2021-09-13
 labels:
   - ITM-352
