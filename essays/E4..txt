@@ -1,0 +1,14 @@
+---
+layout: essay
+type: essay
+title: ITM 352
+date: 2021-11-28
+labels:
+  - ITM-352
+  - Learning
+---
+
+
+Through completing assignment 1, I realized to not panic when a code does not work out. Throught the whole assignment, I have encounter many examples, from having to debug my code to miswriting one code, I hve learned that some things can't control and to be extra carefule. To begin, the very first problem I have encounter was not getting data to my clinet side. I had tried many multiple ways and even had to go to the profressor for help to see what the problem was but in the end was not able to figure out the reason until I switched the name of my folder. Then I was not able to get my code working on the Shilder ITM server. From there, I had to look through my whole code to realize it was due to the way I named my folder. On the sever, it requested "public" but I had named my folder "Public". This is where I learned that even a small capitalization error can affect our entire code. 
+
+From this experience of Assignment 1, I learned to schedule office hours earlier with the professor when in need of help as there was some miscommunication that led me to turn in assigment 1 a day late. I also learned to do small chunks of codes and to check it so often so that I won't have to look at an entire set of codes trying to figure out what went wrong. Often times, its always the little things that is hard to spot. The most helpful thing I learned in working on this assignment is using the console to figure out what went wrong. Finally, I felt that the labs had prepared us well for this assignment. 
