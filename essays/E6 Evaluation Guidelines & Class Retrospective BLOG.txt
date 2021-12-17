@@ -1,0 +1,34 @@
+---
+layout: Essay
+type: Essay
+title: Assignment 3 Reflection
+date: 2021-11-28
+labels:
+  - ITM-352
+  - Learning
+---
+
+The website I created is used to sell bubble tea. 
+
+Some shortcomings I have in this website are no encryption for passwords, does not redirect to homepage after creating the user successfully, and user created successfully is not shown as a pop-up message but as a message on a new page. 
+
+The thing I am most proud of about the system is how my cart worked successfully and how it successfully linked to the invoice. 
+
+The thing that I am least happy about with my system is there is not enough time to make my website look nicer. It can be seen that not as much effort was done is the css aspect for the invoice page and cart page. This was due to the numerous amount of bugs I had to fix to get the codes to work. Therefore, after successfully linking and making the codes work, I did not have enough time to work on the css aspect.
+
+Developing assignment 3 was different from assignment 2 because I had already had a skeleton but had to figure out to replace variables with cookies and sessions. This was a challenge because I am not comfortable with coding as this was my first coding class. Everything I did, I had occur a bug and it took me a while to fix. 
+
+When a problem occured, I realized that inspect page was my best friend as the console log states the exact problem, on the exact page, and the exact line. From there, I'll do trial and error to debug the codes and would sometimes have to search them up to see how others with the exact problems fix the issue.
+
+The css aspect of this assignment worked really and I really enjoy doing it and playing around with it. 
+
+Having to do the actual codes did not work well. Although it brings joy that the codes work, actually coding this project was hard for me. This was my first coding class and it seem to me that there are a lot of expectations. It was tough because other than the examples we practice from lab, I have never practice on any of these concepts. Therefore it was tough putting everthing we learned together. This is not just a test on paper where we can get things based on memorizing. It was actually applying all the concepts and sometimes problems occur because we can't use the exact concept we learned in class as scenarios are different. 
+
+Something I learned from doing this assignment is one line is all it takes to ruin couple hours of work. One of my codes was missing a syntax, and that was all it took for all my pages to not load. It was fustrating at first, but I am glad there is console log. 
+
+If I can do things differently, I would spend more time in the beginning to do the actual codes and after getting all the codes to work, I would then work on the css aspect. I realized I spent more time doing the css because it was something I understand and enjoyed doing. Whereas, the coding aspect was a little confusing to me and I dried to push back, but this was the problem because in the end I also had to spend a lot of time debugging. 
+
+I spent: 
+10% how to do something
+30% writing codes
+60% testing and debugging 
